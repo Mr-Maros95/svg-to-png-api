@@ -1,0 +1,13 @@
+{
+  "name": "svg-to-png-api",
+  "version": "1.0.0",
+  "description": "Convert SVG to PNG using Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.3.8"
+  }
+}
